@@ -1,2 +1,5 @@
 YOLO_obb/
 .idea/
+vis/
+dts_test/
+test/
